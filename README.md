@@ -5,6 +5,11 @@
 
 ### 참고 게임소개 영상
 
--- [Youtube게임소개](https://youtu.be/_G-loAXmpnI)
+- [Youtube게임소개](https://youtu.be/_G-loAXmpnI)
+- [Google Play 좀비유휴 디펜스](https://play.google.com/store/apps/details?id=tdcgame.zombie.idle.defense)
+- 제작사 : TDCGames Global
 
--- [Google Play 좀비유휴 디펜스](https://play.google.com/store/apps/details?id=tdcgame.zombie.idle.defense)
+
+무료 게임 리소스 링크
+---
+- 1 OpenGameArt : https://opengameart.org/
