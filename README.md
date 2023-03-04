@@ -10,7 +10,7 @@ Zombie defense 용 게임 관련 학습 스터디 정리
 
 
 ### 참고 게임소개 영상
-
+- [Youtube게임소개](https://youtu.be/o2ZcDGUBpRs?list=RDCMUCC2HOu0X7tfI5VdsQwRDCnw)
 - [Youtube게임소개](https://youtu.be/_G-loAXmpnI)
 - [Google Play 좀비유휴 디펜스](https://play.google.com/store/apps/details?id=tdcgame.zombie.idle.defense)  제작사 : TDCGames Global
 
