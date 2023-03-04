@@ -13,3 +13,5 @@
 무료 게임 리소스 링크
 ---
 - 1 OpenGameArt : https://opengameart.org/
+- 2 Kenney : https://www.kenney.nl/
+- 3 itch.io : https://itch.io/game-assets/free
