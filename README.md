@@ -12,7 +12,8 @@ Zombie defense 용 게임 관련 학습 스터디 정리
 
 
 기타 참고 영상
--- [Youtube 좀비액션게임 소개](https://youtu.be/o2ZcDGUBpRs?list=RDCMUCC2HOu0X7tfI5VdsQwRDCnw)
+---
+- [Youtube 좀비액션게임 소개](https://youtu.be/o2ZcDGUBpRs?list=RDCMUCC2HOu0X7tfI5VdsQwRDCnw)
 
 
 
